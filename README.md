@@ -1,2 +1,2 @@
-# FIrstt
+# Firstt
 learning git
